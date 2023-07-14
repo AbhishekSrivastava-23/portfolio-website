@@ -3,7 +3,7 @@
 
 ## HOW TO USE
 1. Download the ZIP file, and extract its all content.
-2. Open the "1. Home" page.
+2. Open the "index" page.
 3. Use buttons on the right to navigate through the pages.
 
 ## Access website through https://abhisheksrivastava-23.github.io/portfolio-website/
